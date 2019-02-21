@@ -16,7 +16,7 @@ The user data should be stored in a redux store.
 
 ## Prerequisites
 
-- Yarn: https://yarnpkg.com/en/docs/install
+- Yarn: <https://yarnpkg.com/en/docs/install>
 
 ## How to run the project
 
@@ -27,4 +27,4 @@ The user data should be stored in a redux store.
 ### Run
 
 - `yarn start`
-- Go to http://localhost:8080
+- Go to <http://localhost:8080>
