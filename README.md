@@ -1,6 +1,6 @@
-# NBX Frontend Developer Test
+# NBX Frontend Recruitment Assignment
 
-Welcome to the NBX frontend developer test! The goal of this project to get an idea of your coding style. Enjoy!
+Welcome to the NBX frontend developer assignment! The goal of this project to get an idea of your coding style. Enjoy!
 
 ## Requirements
 
