@@ -2,6 +2,14 @@
 
 Welcome to the NBX frontend developer assignment! The goal of this project to get an idea of your coding style. Enjoy!
 
+## Workflow
+
+To get started, please create a fork of this repository and push your commits to your fork. 
+
+When you have completed your work, please share the URL of your fork repo with us.
+
+We greatly appreciate it if you make your fork a private repo, or delete the repo from GitHub, when the recruitment process has finished.
+
 ## Requirements
 
 This app should allow the user to view a list of users. They should be able to add and delete users from the list.
