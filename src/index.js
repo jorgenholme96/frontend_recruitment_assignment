@@ -1,8 +1,6 @@
 import React from 'react';
-import { render } from 'react-dom';
-import UserApp from "./app";
+import ReactDOM from 'react-dom/client';
+import UserApp from './app';
 
-render (
-    <UserApp />,
-    document.getElementById('main')
-);
+const root = ReactDOM.createRoot(document.getElementById('main'));
+root.render(<UserApp />);

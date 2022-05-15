@@ -1,0 +1,31 @@
+.userCard {
+    display: flex;
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+    justify-content: space-between;
+    animation: slideInFromBottom 300ms ease-in-out;
+}
+
+.cardRow {
+    display: flex;
+    align-items: baseline;
+}
+
+.cardRowTitle {
+    margin-right: 0.5rem !important;
+}
+
+.button {
+    height: 2rem;
+}
+
+@keyframes slideInFromBottom {
+    from {
+        opacity: 0;
+        transform: translateY(100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
